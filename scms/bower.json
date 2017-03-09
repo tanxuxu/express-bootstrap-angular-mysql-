@@ -1,0 +1,24 @@
+{
+  "name": "scms",
+  "description": "this is a node's scms",
+  "main": "index.html",
+  "authors": [
+    "tanxu"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "cms"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.2",
+    "bootstrap": "^3.3.7"
+  }
+}
